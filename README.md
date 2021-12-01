@@ -21,4 +21,4 @@
 
 # Creating Readable File at Python by Importing Data Sheet Available in csv format
 
-# Thanks Kaggle and its Platform and Decodr technology for helping me out with Data Science.
+# Thanks Kaggle and its Platform and Decodr technology for helping me out with Data Science Project.
